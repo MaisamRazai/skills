@@ -8,6 +8,7 @@ A collection of custom skills for [Claude Code](https://claude.ai/code).
 |-------|-------------|
 | [humanizer](humanizer/SKILL.md) | Remove AI writing patterns to make text sound natural and human |
 | [linkedin](linkedin/SKILL.md) | Write LinkedIn posts, about sections, headlines, and connection messages |
+| [linkedin-expert](linkedin-expert/SKILL.md) | Full LinkedIn strategy for tech professionals — profile optimization, job search, recruiter outreach, and ATS tailoring |
 
 ## Usage
 
